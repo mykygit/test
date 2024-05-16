@@ -1,0 +1,170 @@
+body{
+    font-family: "Hiragino Kaku Gothic ProN","メイリオ","sans-serif";
+}
+header {
+    top: 0px;
+    left: 0px;
+}
+.logo img {
+    width: 480px;
+    padding-left: 20px;
+    margin: 0px;
+}
+.menu {
+    width: 98%;
+    height: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+
+}
+header ul {
+    line-height: 60px;
+    margin: 0px;
+}
+header li {
+    float: left;
+    width: 180px;
+    height: 60px;
+    padding-left: 30px;
+    list-style: none;
+    color: white;
+    font-family: "游ゴシック";
+    font-size: 22px;
+}
+main {
+    clear: left;
+}
+.main-container {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: flex;
+}
+.left {
+    float: left;
+    width: 74%;
+    height: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.right {
+    clear: left;
+    float: left;
+    width: 23%;
+    height: auto;
+    border-left: 20px;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+h1 {
+    margin: 1px;
+    padding-left: 15px;
+    border-left: 7px solid black;
+    border-bottom: 3px solid black;
+    font-size: 45px;
+}
+p{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    border-left: 4px red solid;
+    background-color: #fbfbfb;
+    padding-top: 5px;
+    padding-bottom : 5px;
+    padding-left: 15px;
+    width: auto; 
+    font-size: 20px;
+    font-weight: bold;
+}
+    
+form{
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: auto;
+}
+
+form div{
+    padding: 15px;
+    text-align: left;
+}
+
+.text, .textarea, .dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #999;
+    border-bottom: 2px solid gray;
+}
+.kiji{
+    margin: 0 auto;
+    margin-bottom: 10px; 
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    width: auto;
+}
+h3{
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-bottom: 2px #ebebeb solid;
+    background-color: #fbfbfb;
+    padding-left: 10px;
+    width: auto; 
+    font-size: 20px;
+    font-weight: bold;
+}
+.contents{
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    width: auto; 
+    font-size: 15px;
+}
+.handlename{
+    margin-top: 10px;
+    font-size: 10px;
+}
+h2 {
+    border-bottom: 3px dotted gray;
+    margin-top: 50px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+.box3 {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+fotter .fot {
+    float: left;
+    width: 98%;
+    height: 60px;
+    bottom: 0px;
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    font-size: 22px;
+}

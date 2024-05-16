@@ -1,0 +1,134 @@
+header {
+    top: 0px;
+    left: 0px;
+}
+.logo img {
+    width: 480px;
+    padding-left: 20px;
+    margin: 0px;
+}
+.menu {
+    width: 98%;
+    height: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+
+}
+header ul {
+    line-height: 60px;
+    margin: 0px;
+}
+header li {
+    float: left;
+    width: 180px;
+    height: 60px;
+    padding-left: 30px;
+    list-style: none;
+    color: white;
+    font-family: "游ゴシック";
+    font-size: 22px;
+}
+main {
+    clear: left;
+}
+.main-container {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.left {
+    float: left;
+    width: 74%;
+    height: auto;
+    border-top: 4px solid blue;
+    border-right: 4px solid blue;
+    border-bottom: 4px solid blue;
+    padding-left: 10px;
+}
+.right {
+    float: left;
+    width: 23%;
+    height: auto;
+    padding-right: 20px;
+    border-top: 4px solid red;
+    border-left: 4px solid red;
+    border-bottom: 4px solid red;
+}
+h1 {
+    margin: 1px;
+    padding-left: 15px;
+    border-left: 7px solid black;
+    border-bottom: 3px solid black;
+    font-size: 45px;
+}
+.abc img {
+    width: 100%;
+    margin-top: 1em;
+}
+.date {
+    font-size: 20px;
+}
+.honbun {
+    margin-left: 20px;
+    font-size: 20px;
+}
+.main-contents {
+    clear: left;
+    background-color: lightgray;
+    margin-top: 3px;
+    margin-bottom: 20px;
+    padding: 30px 50px 30px 50px;
+}
+.box1 {
+    display: inline-block;
+    text-align: center;
+}
+.box1 img {
+    width: 300px;
+    margin: 3px;
+}
+.box1 p {
+    margin: 0;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+.box2 {
+    display: inline-block;
+    text-align: center;
+    margin-top: 2em;
+}
+.box2 img {
+    width: 300px;
+    margin: 3px;
+}
+.box2 p {
+    margin: 0;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+h2 {
+    border-bottom: 3px dotted gray;
+    margin-top: 50px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+.box3 {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+fotter .fot {
+    float: left;
+    width: 98%;
+    height: 60px;
+    bottom: 0px;
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    font-size: 22px;
+}
